@@ -1,5 +1,5 @@
 # Explore-Weather-Trends-Data-Analyst-Nano-Degree
- Explore Weather Trends is a first project of Udacity's Nanodegree program
+Explore Weather Trends is a first project of Udacity's Nanodegree program
 The project was completed as a part of the criteria of a course in udacity data analyst nano degree
 The main objective is to create  visualization, and focuses on the similarities and differences between global temperature patterns and local city temperature trends. (New Delhi).
 
